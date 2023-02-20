@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# CodeHispano
+# CodeHispano - Guía de Empleabilidad en Tech
 
 ## ¿Qué y Por qué?
 
