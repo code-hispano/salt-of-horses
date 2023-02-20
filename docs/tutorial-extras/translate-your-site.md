@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # ¿Por qué LinkedIn?:
 
+> Tiempo de lectura: 4 minutos
+
 LinkedIn es una herramienta clave para el mercado laboral del sector tecnológico. Aunque puede parecer tediosa, su uso es fundamental para **destacar tu perfil y aumentar tus oportunidades de éxito.** 
 
 Al optimizar tu perfil dentro de LinkedIn podrás atraer la atención de reclutadores y empresas; ya que la gran mayoría lo usa para buscar talento. Pues **la tasa de éxito de los reclutadores a través de LinkedIn es 4 veces más alta** que cualquier otra plataforma de reclutamiento.
