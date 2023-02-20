@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# ¿Por qué LinkedIn?:
+# Aprovecha LinkedIn al máximo
 
 > Tiempo de lectura: 4 minutos
 
