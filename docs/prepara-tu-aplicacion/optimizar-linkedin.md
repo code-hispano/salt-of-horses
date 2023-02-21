@@ -44,7 +44,7 @@ A continuación te compartimos ejemplos de buenas fotos:
 
 Por otro lado, también te compartimos un par de herramientas para evaluar la calidad de tu foto de perfil:
 * [**Snappr**](https://www.snappr.com/photo-analyzer/): Usa IA para analizar directamente la foto al conectar tu cuenta de LinkedIn y obtén recomendaciones puntuales para mejorar.
-* [**Photofeeler**](https://www.photofeeler.com/): Aprovecha la IA para entender qué impresión puede causar tu fotografía en otros. 
+* [**Photofeeler**](https://www.photofeeler.com/): Aprovecha la IA para entender que impresión puede causar tu fotografía en otros. 
 
 &nbsp;
 
@@ -109,19 +109,35 @@ deberás mostrar tu experiencia de 3 a 5 _bullets_ relevantes y cuantificables p
 
 ### **Aptitudes:**
 
+La sección de lista de aptitudes de LinkedIn permite a los usuarios **agregar habilidades relevantes a su perfil y recibir validaciones de otros usuarios**. Las aptitudes son importantes porque ayudan a destacar las fortalezas y habilidades únicas de tu perfil.
 
+ Para optimizar esta sección, es recomendable agregar habilidades específicas y relevantes a la industria o posición que estás buscando, y **asegurarse de que las habilidades se correspondan con las que has encontrado en diferentes descripciones de trabajo**. También es útil solicitar validaciones de contactos de LinkedIn con los que se ha trabajado en el pasado para mejorar la credibilidad y la visibilidad del perfil.
+
+ Incluso, LinkedIn te ofrece la opción de tomar  _tests_ en ciertas aptitudes para las habilidades Técnicas, Empresariales y de Diseño. [**Aquí** puedes encontrar una lista de las aptitudes que puedes validar mediante un sencillo test.](https://www.linkedin.com/help/linkedin/answer/a507734)
 
 &nbsp;
 
 ### **Recomendaciones de terceros:**
 
+La función de recomendaciones de terceros en LinkedIn **permite a tus contactos compartir sus experiencias laborales contigo.** Estas recomendaciones pueden **aumentar la credibilidad de tu perfil** y mostrar habilidades y logros que de otra manera no se destacarían. 
 
+Para aprovechar al máximo esta función, pide recomendaciones a antiguos colegas o jefes que puedan respaldar tus habilidades. Además, considera escribir recomendaciones para tus contactos para construir relaciones más fuertes en la plataforma.
 
 &nbsp;
 
 ## Genera tu red de contactos:
 
+Para generar una red de contactos de alto impacto en LinkedIn, es importante tener una estrategia clara. 
 
+1. Comienza por buscar y conectar con personas que trabajen en tu misma industria o en posiciones similares a la tuya. 
+
+2. **Aporta Valor** - participa en algunos grupos de discusión o publica contenido relevante para el interés de tu sector. _Siempre pregúntate ¿Cómo puedo hacer que los minutos que me dedica esta persona valgan más en comparación a si no me los estuviese dedicando?_
+
+3. Aprovecha las herramientas de búsqueda avanzada para encontrar a personas de interés y personaliza tus mensajes de invitación para generar una conexión significativa. 
+
+4. No te olvides de mantener el enfoque en **generar relaciones antes que solo pedir favores**.
+
+&nbsp;
 
 ## Evalúa tu perfil de LinkedIn:
 
@@ -135,7 +151,9 @@ Intenta evaluar tu perfil con múltiples herramientas para generar un juicio mas
 
 ## Ejemplos de buenos perfiles de LinkedIn:
 
-
+1. [Data Science](https://www.linkedin.com/in/sabina-ixchel-garcia-mendoza/)
+2. [Sotfware Engineer](https://www.linkedin.com/in/akanksha-singh-083969123/)
+3. [Business Intelligence](https://www.linkedin.com/in/sabrinaaliyeva/)
 
 
 
