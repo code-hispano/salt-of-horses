@@ -41,7 +41,7 @@ Tener una foto en tu perfil de LinkedIn es **esencial para causar una buena prim
 
 A continuación te compartimos ejemplos de buenas fotos:
 
-![Ejemplo Foto LinkedIn](/static/img/Ejemplos_Foto_LinkedIn.jpg)
+![Ejemplo Foto LinkedIn](/img/Ejemplos_Foto_LinkedIn.jpg "Ejemplo Fotos LinkedIn")
 
 Por otro lado, también te compartimos un par de herramientas para evaluar la calidad de tu foto de perfil:
 
