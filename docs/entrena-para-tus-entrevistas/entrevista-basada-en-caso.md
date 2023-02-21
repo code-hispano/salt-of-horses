@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
-# Entrevista de Basada en Casos:
+# Entrevista de Basada en Casos
 
 > Tiempo de lectura: 3 minutos
 
