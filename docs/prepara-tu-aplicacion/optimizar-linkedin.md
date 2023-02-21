@@ -40,7 +40,11 @@ Tener una foto en tu perfil de LinkedIn es **esencial para causar una buena prim
 
 A continuación te compartimos ejemplos de buenas fotos:
 
-# Aquí va una imagen
+![Ejemplo Foto LinkedIn](https://github.com/code-hispano/salt-of-horses/blob/main/docs/img/18_20200622204008_6711651_large.jpg "")
+
+Por otro lado, también te compartimos un par de herramientas para evaluar la calidad de tu foto de perfil:
+* [**Snappr**](https://www.snappr.com/photo-analyzer/): Usa IA para analizar directamente la foto al conectar tu cuenta de LinkedIn y obtén recomendaciones puntuales para mejorar.
+* [**Photofeeler**](https://www.photofeeler.com/): Aprovecha la IA para entender qué impresión puede causar tu fotografía en otros. 
 
 &nbsp;
 
