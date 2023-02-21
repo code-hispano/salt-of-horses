@@ -109,6 +109,14 @@ Para ello:
 ## Ejemplos de buenos CVs:
 
 
+**CVs para una posición de entrada:**
+
+![Ejemplo CV 1](https://github.com/code-hispano/salt-of-horses/blob/main/static/img/Ejemplo_Cv_1.jpg "")
+&nbsp;
+
+![Ejemplo CV 2](https://github.com/code-hispano/salt-of-horses/blob/main/static/img/Ejemplo_Cv_2.jpg"")
+
+
 &nbsp;
 
 ## Recursos extra:
