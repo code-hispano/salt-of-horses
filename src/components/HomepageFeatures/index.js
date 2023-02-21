@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Aprende en Español',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Este proyecto open-source en español te brinda una <b>guía clara y fácil de seguir</b>  para gestionar tus esfuerzos de búsqueda de trabajo
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Nuestra Filosofía',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        CodeHispano es un <b>proyecto vivo</b>, sustentado en una comunidad de Tech People comprometida en impulsar el éxito profesional de sus miembros.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Aprovéchalo al máximo',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Fija tiempos en tu agenda, participa con la comunidad y sobre todo... <b>!Aplica lo aprendido!</b>
       </>
     ),
   },
