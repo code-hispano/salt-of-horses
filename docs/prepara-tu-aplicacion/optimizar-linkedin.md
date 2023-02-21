@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Aprovecha LinkedIn al máximo
 
-> Tiempo de lectura: 4 minutos
+> Tiempo de lectura: 7 minutos
 
 LinkedIn es una herramienta clave para el mercado laboral del sector tecnológico. Aunque puede parecer tediosa, su uso es fundamental para **destacar tu perfil y aumentar tus oportunidades de éxito.** 
 
