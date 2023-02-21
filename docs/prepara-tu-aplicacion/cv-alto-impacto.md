@@ -101,8 +101,8 @@ Para ello:
 ## Revisa y valida antes de enviar:
 
 1. Lectura previa: Revisa tu CV a fondo antes de enviarlo para detectar errores
-2. Pedir Feedback: Aprovecha a la comunidad de CodeHispano accediendo al [canal de Feedback para CVs](discord.com). Recuerda recibir la retroalimentación de manera crítica y objetiva para seguir mejorando tu CV. 
-3. Evalúalo en línea: Existen diferentes páginas donde podrás poner a prueba tu CV y obtener su puntaje, así como algunas recomendaciones para mejorarlo. Una de ellas es **[Resume Worded](resumeworded.com).**
+2. Pedir Feedback: Aprovecha a la comunidad de CodeHispano accediendo al [canal de Feedback para CVs](https://www.discord.com). Recuerda recibir la retroalimentación de manera crítica y objetiva para seguir mejorando tu CV. 
+3. Evalúalo en línea: Existen diferentes páginas donde podrás poner a prueba tu CV y obtener su puntaje, así como algunas recomendaciones para mejorarlo. Una de ellas es **[Resume Worded](https://resumeworded.com).**
 
 &nbsp;
 
